@@ -3,6 +3,10 @@
 Reference solutions for Problems 4 and 6 of Section 4.7 of *Building Problem Solvers*
 (Forbus & de Kleer), pages 105–106.
 
+A complete, loadable exemplar submission — the file a student would actually turn in —
+is in [bps-hwk1.lsp](bps-hwk1.lsp). It carries the Part 2b answer in its rule comments
+and ships a `(hwk1-self-test)` covering 11 checks.
+
 All code in this document was executed against the real BPS `tre` sources
 (`tinter.lisp`, `data.lisp`, `rules.lisp`, `unify.lisp`) under SBCL 2.4.0. Measured
 numbers quoted below are actual run output, not estimates.

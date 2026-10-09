@@ -3,6 +3,9 @@
 Companion to [bps-hwk1-answer-sheet.md](bps-hwk1-answer-sheet.md), which holds the
 reference solutions, verified expected outputs, and the catalogue of common errors this
 rubric refers to.
+[bps-hwk1.lsp](bps-hwk1.lsp) is a loadable exemplar submission scoring
+full marks against this rubric — useful as a calibration point and as release material
+after grading.
 
 **Total: 100 points.** Part 1 = Problem 4 (`multi-fetch`), Part 2 = Problem 6
 (lazy introduction rules + the Part B explanation).
