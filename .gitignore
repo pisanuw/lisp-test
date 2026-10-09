@@ -1,0 +1,10 @@
+# Course textbook (Forbus & de Kleer, "Building Problem Solvers", MIT Press).
+# Copyrighted, and at 109 MiB it exceeds GitHub's 100 MiB per-file hard limit.
+BPS-Searchable.pdf
+*.pdf
+
+# Lisp build artifacts
+*.fasl
+*.fas
+*.lib
+*.dx64fsl
